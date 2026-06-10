@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Scent On Pillow Remains
+
+This log tracks the cryptographic history and versioning for the song **Scent On Pillow Remains** (scent-on-pillow-remains).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T18:36:07.516404 | `v1` | `701bd01f9b955d6f09e84220175849f2ffcaea532ca699f831afab4b8c882913` | `6c1dd5878a60e33aac25c903b27abb8a2df0e01d74b3e6fc864c78348a19a722` | `2026-06-10_scent-on-pillow-remains-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
