@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/scent-on-pillow-remains/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Scent On Pillow Remains](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-on-pillow-remains/) |
+| **Get License** | [Obtain a Music License for Scent On Pillow Remains](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-on-pillow-remains/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can still feel the warmth where you laid your head
+> The embers are fading but the fire isn't dead
+> Tangled up memories and a half-empty glass
+> I'm holding onto a moment that happened so fast
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
