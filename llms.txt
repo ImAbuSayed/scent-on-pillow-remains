@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/scent-on-pillow-remains/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Scent On Pillow Remains](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-on-pillow-remains/) |
+| **Get License** | [Obtain a Music License for Scent On Pillow Remains](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/scent-on-pillow-remains/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2953)
 
 ---
 
